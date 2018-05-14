@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">taskManager</string>
+    <string-array name = "task_actions">
+    <item>addTask</item>
+    <item>removeTask</item>
+    <item>completeTask</item>
+    <item>editTask</item>
+    <item>addTask</item>
+    </string-array>
+
+
+
+</resources>
